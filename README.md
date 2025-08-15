@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://muralikrishnaj.netlify.app/](https://muralikrishnaj.netlify.app/)
 
-- 💬 Ask me about **Java, Sql, UI design**
+- 💬 Ask me about **Spring Boot, Java, Sql, UI design**
 
 - 📫 How to reach me **jakkamsettimuralikrishna2000@gmail.com**
 
