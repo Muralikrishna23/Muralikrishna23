@@ -17,17 +17,13 @@
 
 ## 🚀 About Me
 
-```javascript
-const developer = {
-    name: "Muralikrishna Jakkamsetti",
-    location: "Hyderabad, India",
-    role: "Software Developer @ Samtex Solutions",
-    education: "BTech in Electronics & Communication",
-    expertise: ["Spring Boot", "Microservices", "REST APIs", "Cloud Technologies"],
-    currentlyLearning: ["Kubernetes", "System Design", "Advanced DSA"],
-    funFact: "I optimize code like I optimize my coffee - efficiently! ☕"
-};
-```
+I'm a **Full Stack Developer** passionate about building scalable and efficient web applications. Currently working at **Samtex Solutions**, where I design and develop enterprise-level solutions using modern technologies.
+
+- 🎓 BTech in Electronics & Communication Engineering
+- 💼 Software Developer with expertise in Java, Spring Boot, and cloud technologies
+- 🌱 Currently exploring Kubernetes, System Design, and Advanced Algorithms
+- 💡 I love optimizing code and solving complex problems
+- ☕ Fun fact: I believe good code and good coffee have something in common - both should be strong and well-structured!
 
 <br/>
 
